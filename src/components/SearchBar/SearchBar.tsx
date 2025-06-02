@@ -1,4 +1,4 @@
-import toast, { Toaster } from 'react-hot-toast';
+import toast from 'react-hot-toast';
 import css from "./Search.Bar.module.css"
 
 interface SearchBarProps{
