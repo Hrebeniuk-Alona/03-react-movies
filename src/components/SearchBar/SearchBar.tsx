@@ -42,7 +42,6 @@ export default function SearchBar({ onSubmit }:SearchBarProps) {
                 <button className={css.button} type="submit">
                     Search
                 </button>
-                {/* <Toaster position="top-right" /> */}
             </form>
         </div>  
     </header>
